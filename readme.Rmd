@@ -1,0 +1,8 @@
+---
+title: "intro"
+author: "Beth Levick"
+date: "Sunday, December 11, 2016"
+output: html_document
+---
+
+A sample R markdown document to test the readme functionality in git. 
